@@ -1,0 +1,2 @@
+# SimpleDailytoolKitP
+SimpleDailytoolKit应用的隐私协议
